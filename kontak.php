@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Halaman Web Sederhana</title>
+<title>Halaman Web</title>
 <link href="style/home.css" rel="stylesheet">
 </head>
 <body bgcolor=#00FA9A>
